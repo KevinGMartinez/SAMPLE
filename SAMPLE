@@ -1,0 +1,32 @@
+<!Doctype HTML>
+	<HTML>
+		<HEAD>
+	<META CHARSET= “UTF-8”>
+		<TITLE> HTML CODING TEST</TITLE>
+</HEAD>
+	<BODY>
+		<P> Please show us that you can code all of this <I> correctly</I> using basic HTML, including this link to the <a href=``https://www.google.com/''> alt=”Google_Homepage”
+	</a>
+			</p>
+
+<br>
+
+<P> create a basic table </P>
+	
+<table>
+<tr>
+	<td>Charmander</td>
+	<td>Pikachu</td>
+	<td>Squirtle</td>
+</tr>
+
+<tr>
+	<td>Fire</td>
+	<td>Electric</td>
+	<td>Water</td>
+</tr>
+
+</table>
+
+</body>
+	</html>
